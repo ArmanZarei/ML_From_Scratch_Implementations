@@ -1,4 +1,4 @@
-# Machine Leaarning Implementations (From Sctrach)
+# Machine Learning Implementations (From Sctrach)
 
 - [x] Clustering
   - [x] K-Means
