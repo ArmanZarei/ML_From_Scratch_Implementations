@@ -1,1 +1,5 @@
-# ML_From_Scratch_Implementations
+# Machine Leaarning Implementations (From Sctrach)
+
+- [x] Clustering
+  - [x] K-Means
+  - [x] Gaussian Mixture Models
